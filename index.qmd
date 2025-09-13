@@ -1,0 +1,46 @@
+---
+title: "Welcome!"
+pagetitle: "Adam McFall"
+description-meta: "Adam McFall is a Biologist at the USGS Columbia Environmental Research Center, researching invasive carp species, movement ecology, and data science."
+main-photo: /files/profiles/headshot.png
+main-photo-square: /files/profiles/headshot.png
+#title-block-banner: "#A2AAAD"
+format:
+  html:
+    quarto-template-params:
+      banner-header-class: "home"
+---
+
+::: {.grid}
+
+::: {.g-col-16 .g-col-sm-4}
+
+```{=html}
+<div class="grid" style="--bs-columns: 5; row-gap: 0;">
+  <div class="g-col-1 g-col-sm-0"></div>
+  <div class="g-col-3 g-col-sm-5">
+    <picture>
+      <source media="(max-width: 576px)" srcset="{{< meta main-photo-square >}}">
+      <source media="(min-width: 576px)" srcset="{{< meta main-photo >}}">
+      <img class="img-fluid" src="{{< meta main-photo >}}" alt="{{< meta author-meta >}}">
+    </picture>
+  </div>
+  <div class="g-col-1 g-col-sm-0"></div>
+</div>
+```
+
+:::
+
+::: {.g-col-8 .g-col-sm-8}
+
+I am a Biologist with the U.S. Geological Survey at the [Columbia Environmental Research Center](https://www.usgs.gov/centers/columbia-environmental-research-center) in Columbia, Missouri. As part of the [Fisheries and Invasive Species Program](https://www.usgs.gov/centers/columbia-environmental-research-center/science/science-topics/invasive-species-ecology), my research focuses on understanding the behavior of invasive carp species/developing tools to limit their spread throughout the Mississippi River basin.
+
+I received a M.S. in Integrative Conservation & Sustainability from the University of Georgia's Odum School of Ecology in 2023. My thesis looked at improving head-starting practices and developing a new soft release method to protect [threatened gopher frog populations in South Carolina](https://www.youtube.com/watch?v=LG9sLTHaark&t=5s). Before that, I graduated with a B.S. in Biology from the University of South Carolina, Aiken in 2019.
+
+I'm interested in conservation ecology, data science, science communication, invasive species, amphibian ecology, ecotoxicology, and restoration ecology. I work a lot with R and GIS and have no trouble teaching myself new software. My latest pursuits are Quarto and LaTeX for writing protocols, manuscripts, and storing code.
+
+Outside of work, I enjoy going for walks with my wife, spending time with my daughter, herping, camping, playing adult-league soccer, and board games with friends.
+
+:::
+
+:::

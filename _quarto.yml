@@ -1,0 +1,92 @@
+project:
+  type: website
+
+  preview: 
+    port: 5555
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!etc/"
+
+  resources:
+    - "files/**"
+    - "etc/**"
+
+    # Things that need to be at the site root
+    - ".htaccess"
+    - "LiveSearchSiteAuth.xml"
+    - "y_key_31e0c4105fc75710.html"
+    - "pgp_ath.asc.txt"
+
+freeze: true
+
+#bibliography: files/bib/references.bib
+#csl: files/bib/chicago-author-date.csl
+
+# Metadata stuff
+pagetitle: "{{< meta title >}} | Adam McFall"
+author-meta: "Adam McFall"
+
+website:
+  title: "Adam McFall"
+  description: "Adam McFall is a Biologist at the USGS Columbia Environmental Research Center, researching invasive carp species, movement ecology, and data science."
+  #favicon: "/files/favicon-512.png"
+  #site-url: "https://www.adammcfall.com"
+  #repo-url: "https://qnzac21.quarto.pub.com"
+
+  #google-analytics: "UA-527449-5"
+
+  #twitter-card: 
+  #  image: "/files/profiles/twitter-card-large.png"
+  #  card-style: summary_large_image
+  #  creator: "@andrewheiss"
+  #  site: "@andrewheiss"
+
+  #open-graph: 
+  #  image: "/files/profiles/twitter-card-large.png"
+  #  locale: en_US
+  
+  navbar:
+    pinned: true
+
+    left:
+      - text: "About"
+        href: "index.qmd"
+      - text: "CV"
+        href: "cv/index.qmd"
+      - text: "Research"
+        file: "research/index.qmd"
+      #- text: "Talks"
+      #  href: "talks/index.qmd"
+      - text: "Now"
+        href: now/index.qmd
+    
+    right:
+      - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
+        href: "mailto:amcfall@usgs.gov"
+      - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
+        href: https://www.linkedin.com/in/adam-mcfall-7093a0164/
+        rel: me
+  
+
+    center: |
+      <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
+      <span class="faux-block">{{< fa key >}} [PGP public key]({{< var pgp.key >}}) &emsp; {{< fa fingerprint >}} Fingerprint:</strong><br><span class="fingerprint">{{< var pgp.fingerprint >}}</span></span>
+
+format:
+  html:
+    theme: 
+      - html/ath.scss
+    grid: 
+      body-width: 900px
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
