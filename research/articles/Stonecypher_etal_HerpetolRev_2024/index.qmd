@@ -1,0 +1,40 @@
+---
+title: "*AMBYSTOMA OPACUM* (Marbled Salamander). LEUCISM"
+date: 2024-12-06
+author:
+- name: E. Tucker Stonecypher
+  affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+- name: Padraic S. Robinson
+  affiliation: Savannah River Ecology Laboratory, University of Georgia
+- name: Kiersten N. Nelson
+  affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+- name: Adam J. McFall
+  affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+pub-info:
+  reference: >-
+   E. Tucker Stonecypher, Padraic S. Robinson, Kiersten N. Nelson, and <strong>Adam J. McFall</strong>. (2024). “<em>AMBYSTOMA OPACUM</em> (Marbled Salamander). LEUCISM,” <em>Herpetological Review<em> 55(1): 60-61.
+  links:
+    - name: Final version
+      url: Stonecypher_etal_HerpetolRev_2024.pdf
+      icon: fa-solid fa-file
+      local: true
+---
+  
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/amcfall/publications/items/KWXIVKP5/item-list">Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{Stonecypher_etal_HerpetolRev_2024,
+  Author = {E. Tucker Stonecypher, Padraic S. Robinson, Kiersten N. Nelson, Adam J. McFall},
+  Journal = {Herpetological Review},
+  Month = {12},
+  Number = {06},
+  Pages = {60-61},
+  Title = {AMBYSTOMA OPACUM (Marbled Salamander). LEUCISM.},
+  Volume = {55},
+  Issue = {1},
+  Year = {2024}}
+```

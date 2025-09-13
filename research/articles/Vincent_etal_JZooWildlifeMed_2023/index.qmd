@@ -1,0 +1,48 @@
+---
+title: "Cutaneous Myiasis and Its Relationship to Wellness in Eastern Box Turtles (*Terrapene Carolina Carolina*) in Cape Cod, Massachusetts"
+author:
+  - name: Lauren M. Vincent
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois;
+  - name: Matthew C. Allender
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois; Chicago Zoological Society, Brookfield Zoo
+  - name: Annie E. Curtis
+    affiliation: Natural Resources and Integrated Training Area Management Office, Massachusetts Army National Guard, Camp Edwards
+  - name: Nicole E. Madden
+    affiliation: Natural Resources and Integrated Training Area Management Office, Massachusetts Army National Guard, Camp Edwards
+  - name: Carolyn Cray
+    affiliation: Comparative Pathology Laboratory, Miller School of Medicine, University of Miami
+  - name: Stacey Lance
+    affiliation: Savannah River Ecology Laboratory, University of Georgia
+  - name: Adam McFall
+    affiliation: Savannah River Ecology Laboratory, University of Georgia
+  - name: Laura Adamovicz
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois
+pub-info:
+  reference: >-
+    Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, Nicole E. Madden, Carolyn Cray, Stacey Lance, <strong>Adam McFall</strong>, and Lauren Adamovicz. (2023). “Cutaneous Myiasis and Its Relationship to Wellness in Eastern Box Turtles (<em>Terrapene Carolina Carolina</em>) in Cape Cod, Massachusetts,” <em>Journal of Zoo and Wildlife Medicine<em> 15: 356–75, doi: <a href="https://doi.org/10.1638/2022-0173"><code>10.1638/2022-0173</code></a>
+  links:
+  - name: Final version
+    url: https://doi.org/10.1638/2022-0173
+    icon: fa-solid fa-file
+doi: 10.1638/2022-0173
+---
+
+## Abstract
+Eastern box turtles (*Terrapene carolina carolina*) face a variety of anthropogenic, infectious, and environmental threats and have been affected by high morbidity and mortality disease events. Wellness parameters in free-ranging eastern box turtles with a high prevalence of myiasis on Cape Cod, MA, were documented to identify epidemiologic trends or associations with several health parameters. There were 109 samples collected from 59 individual box turtles over the course of 4 mon. Six turtles died over the course of this study. Fly larvae infestations varied in severity and were observed in the cutaneous and subcutaneous tissue (n $= 18$; 30.5\%). Animals with myiasis had fewer plastron abnormalities than those without (*P* $= 0.034$), and all turtles found in bogs had evidence of fly larvae infections (*P* $< 0.0001$). Individuals with myiasis also had lower body condition index (*P* $= 0.014$), lower total white blood cells (*P* $= 0.031$), lower PCV (P $< 0.0001$), lower total solids (*P* < 0.0001), higher erythrocyte sedimentation rate (*P* $< 0.0001$), lower calcium (*P* $= 0.018$), and lower phosphorus (*P* $= 0.017$). Three turtles tested positive for terrapene herpesvirus 1, but presence was not associated with myiasis. Heavy metal analysis revealed no significant differences between turtles with and without myiasis. This study examined the health of a population of eastern box turtles, and continued health assessments will be beneficial in determining the impact of myiasis on future conservation plans.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/amcfall/publications/items/KWXIVKP5/item-list">Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{Vincent_etal_JZooWildlifeMed_2023,
+    Author = {Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, Nicole E. Madden, Carolyn Cray, Stacey Lance, Adam McFall, and Laura Adamovicz},
+    Journal = {Journal of Zoo and Wildlife Medicine},
+    Pages = {785-795},
+    Title = {Cutaneous Myiasis and Its Relationship to Wellness in Eastern Box Turtles (Terrapene Carolina Carolina) in Cape Cod, Massachusetts},
+    Volume = {54},
+    Issue = {4},
+    Year = {2023}}
+```

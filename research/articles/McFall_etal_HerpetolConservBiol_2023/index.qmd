@@ -1,0 +1,52 @@
+---
+title: "Morphological Abnormalities in the Gopher Frog
+(*Lithobates capito*) During a Headstarting Event"
+date: 2023-12-16
+author:
+  - name: Adam J. McFall
+    affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+  - name: Kiersten N. Nelson
+    affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+  - name: E. Tucker Stonecypher
+    affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+  - name: Christian S. Swartzbaugh
+    affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+  - name: Matthew C. Allender
+    affiliation: College of Veterinary Medicine, University of Illinois
+  - name: Caitlin E. Burrell
+    affiliation: Zoo and Exotic Animal Pathology Service, Infectious Diseases Laboratory, University of Georgia; Small Animal Medicine and Surgery, College of Veterinary Medicine, University of Georgia; Southeastern Cooperative Wildlife Disease Study, College of Veterinary Medicine 
+  - name: Michael J. Yabsley
+    affiliation: Southeastern Cooperative Wildlife Disease Study, College of Veterinary Medicine; Warnell School of Forestry and Natural Resources, University of Georgia
+  - name: Stacey L. Lance
+    affiliation: Savannah River Ecology Laboratory, University of Georgia
+pub-info:
+  reference: >-
+    <strong>Adam J. McFall</strong>, Kiersten N. Nelson, E. Tucker Stonecypher, Christian S. Swartzbaugh, Matthew C. Allender, Caitlin E. Burrell, Michael J. Yabsley, and Stacey L. Lance. (2023). “Morphological Abnormalities in the Gopher Frog (<em>Lithobates capito</em>) During a Headstarting Event,” <em>Herpetological Conservation and Biology<em> 18(3): 436–449.
+  links:
+  - name: Final version
+    url: McFall_etal_HerpetolConservBio_2023.pdf
+    icon: fa-solid fa-file
+---
+
+## Abstract
+Conservation plans to protect Gopher Frog (*Lithobates capito*) populations commonly include headstarting to improve recruitment to the juvenile stage. Headstarting is being used across multiple federal, state, non-government, and academic organizations to augment and/or reintroduce Gopher Frog populations. In 2021, 99\% of the 332 Gopher Frogs headstarted during the egg and larval stage at the University of Georgia Savannah River Ecology Laboratory in South Carolina displayed morphological abnormalities at metamorphosis. These included skin, eye, gill, and jaw abnormalities plus edema and redness of the skin. Skin abnormalities were the most prevalent, affecting 99.1\% of frogs. Using a quantitative scoring system, we scored a subset of 92 frogs at metamorphosis and between 8-–26 d after metamorphosis; all except eye abnormalities either partially or fully recovered. Based on photographs of early-stage tadpoles taken for a separate experiment, 79\% of tadpoles had eye abnormalities as early as 16 d post-hatch. Except for gills and bloating, we found that models including mesocosm as a predictor had greater Akaike Information Criterion weights than those that did not have mesocosm as a predictor, suggesting the cause may be related to mesocosm-specific conditions. Since 2017, abnormalities in either Gopher Frogs or federally listed Dusky Gopher Frogs (*L. sevosus*) have been reported from at least six other headstarting facilities. It is unclear whether these abnormalities are related to captive conditions or are occurring in wild populations as well. Collection of additional data on rearing conditions will aid in determining relationships between headstarting environments and health of metamorphs.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/amcfall/publications/items/KWXIVKP5/item-list">Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{McFall_etal_HerpetolConservBiol_2023,
+    Author = {Adam J. McFall, Kiersten N. Nelson, E. Tucker Stonecypher, Christian S. Swartzbaugh, Matthew C. Allender, Caitlin E. Burrell, Michael J. Yabsley, and Stacey L. Lance},
+    Journal = {Herpetological Conservation and Biology},
+    Month = {12},
+    Number = {16},
+    Pages = {436-449},
+    Title = {Morphological Abnormalities in the Gopher Frog
+(Lithobates capito) During a Headstarting Event},
+    Volume = {18},
+    Issue = {3},
+    Year = {2023}}
+```

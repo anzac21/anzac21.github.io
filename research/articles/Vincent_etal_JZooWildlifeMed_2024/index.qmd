@@ -1,0 +1,54 @@
+---
+title: "Heath Assessment of Spotted (*Clemmys guttata*) and Painted (*Chrysemys picta*) Turtles in Cape Cod, Massachusetts, U.S.A., With Detection of a Novel Adenovirus"
+date: 2024-09-05
+author:
+  - name: Lauren M. Vincent
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois
+  - name: Matthew C. Allender
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois; Chicago Zoological Society, Brookfield Zoo
+  - name: Annie E. Curtis
+    affiliation: Natural Resources and Integrated Training Area Management Office, Massachusetts Army National Guard, Camp Edwards
+  - name: John C. Garrison
+    affiliation: Independent Researcher
+  - name: Stacey Lance
+    affiliation: Savannah River Ecology Laboratory, University of Georgia
+  - name: Adam McFall
+    affiliation: Savannah River Ecology Laboratory, University of Georgia
+  - name: Amber Simmons
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois
+  - name: Kaitlin Moorhead
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois
+  - name: Laura Adamovicz
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois
+pub-info:
+  reference: >-
+    Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, John C. Garrison, Stacey Lance, <strong>Adam McFall</strong>, Amber Simmons, Kaitlin Moorhead, and Lauren Adamovicz. (2024). “Heath Assessment of Spotted (<em>Clemmys guttata</em>) and Painted (<em>Chrysemys picta</em>) Turtles in Cape Cod, Massachusetts, U.S.A., With Detection of a Novel Adenovirus,” <em>Journal of Zoo and Wildlife Medicine<em> 15: 356–75, doi: <a href="https://doi.org/10.1638/2022-0173"><code>10.1638/2022-0173</code></a>
+  links:
+  - name: Final version
+    url: https://doi.org/10.1638/2022-0173
+    icon: fa-solid fa-file
+doi: 10.1638/2023-0141
+---
+
+## Abstract
+Freshwater turtles face numerous anthropogenic threats worldwide. Health assessments are a key
+component of chelonian population assessment and monitoring but are under reported in many species. The purpose of this study was to characterize the health of spotted turtles (*Clemmys guttata*; n $= 30$) and painted turtles (*Chrysemys picta*; n $= 24$) at Camp Edwards, a military base in Cape Cod, Massachusetts, using physical examinations, hematology, plasma heavy metal analyses, and pathogen surveillance via PCR. Spotted turtles had a high prevalence of carapace (n $= 27$, 90\%) and plastron (n $= 14$, 46.7\%) lesions, and a previously undescribed adenovirus was detected in three animals (proposed as *Clemmys* adenovirus-1). Female painted turtles had lower plasma copper (p $= 0.012$) and higher strontium (p $= 0.0003$) than males, and appeared to be in a similar plane of health to previous reports. This initial health assessment effort provides useful baseline data for future comparison in these species. Conservation efforts on Camp Edwards should incorporate continued health surveillance of these populations to identify intervention opportunities and determine the conservation threats, if any, of the novel adenovirus.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/amcfall/publications/items/KWXIVKP5/item-list">Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{Vincent_etal_JZooWildlifeMed_2024,
+    Author = {Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, John C. Garrison, Stacey Lance, Adam McFall, Amber Simmons, Kaitlin Moorhead, and Laura Adamovicz},
+    Journal = {Journal of Zoo and Wildlife Medicine},
+    Month = {09}
+    Number = {5}
+    Pages = {743-749},
+    Title = {Heath Assessment of Spotted (Clemmys guttata) and Painted (Chrysemys picta) Turtles in Cape Cod, Massachusetts, U.S.A., With Detection of a Novel Adenovirus},
+    Volume = {55},
+    Issue = {3},
+    Year = {2024}}
+```
