@@ -1,0 +1,49 @@
+---
+title: "Amphibian Dispersal Traits Not Impacted by Triclopyr
+Exposure during the Juvenile Stage"
+date: 2023-02-02
+author:
+  - name: Adam J. McFall
+    orcid: 0000-0001-5516-7914
+    affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+  - name: Julie Ziemba
+    affiliation: Ohio Department of Health
+  - name: Scott M. Weir
+    affiliation: DAWSON
+  - name: Krista A. Capps
+    affiliation: Odum School of Ecology, University of Georgia; Savannah River Ecology Laboratory, University of Georgia
+  - name: Stacey L. Lance
+    orcid: 0000-0003-2686-1733
+    affiliation: Savannah River Ecology Laboratory, University of Georgia
+pub-info:
+  reference: >-
+    <strong>Adam J. McFall</strong>, Julie Ziemba, Scott M. Weir, Krista A. Capps, and Stacey L. Lance. (2023). “Amphibian Dispersal Traits Not Impacted by Triclopyr,” <em>Diversity<em> 15: 356–75, doi: <a href="https://doi.org/10.3390/d15020215"><code>10.3390/d15020215</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.3390/d15020215
+      icon: fa-solid fa-file
+doi: 10.3390/d15020215
+---
+
+## Abstract
+Exposure to agrochemicals can have lethal and sublethal effects on amphibians. Most toxicology studies only examine exposure during the aquatic larval stage. Survival of the juvenile stage is the most important for population persistence and it is critical to understand the potential impacts of exposure during this life stage. We investigated how short-term exposure to triclopyr, an herbicide commonly used in forestry management, might impact several juvenile traits. To determine if juveniles perceived exposure as an environmental stressor, we measured their release of corticosterone. We also examined dispersal traits by measuring foraging and hopping behavior. We found no evidence that exposure negatively impacted these traits or was a stressor. Our results provide a preliminary assessment of the potential impact of triclopyr on juvenile amphibians, but we recommend additional research on the effects of agrochemicals on juvenile amphibians.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/amcfall/publications/items/KWXIVKP5/item-list">Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{McFall_etal_Diversity_2023,
+    Author = {Adam J. McFall, Julie Ziemba, Scott M. Weir, Krista A. Capps, and Stacey L. Lance},
+    Doi = {https://doi.org/10.3390/d15020215},
+    Journal = {Diversity},
+    Month = {2},
+    Number = {2},
+    Pages = {d15020215},
+    Title = {Amphibian Dispersal Traits Not Impacted by Triclopyr
+Exposure during the Juvenile Stage},
+    Volume = {15},
+    Year = {2023}}
+```

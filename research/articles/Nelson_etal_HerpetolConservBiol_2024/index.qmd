@@ -1,0 +1,47 @@
+---
+title: "Development and Validation of a Scoring System for Abnormalities in the Gopher Frog (*Rana capito*)"
+date: 2024-04-30
+author:
+  - name: Kiersten N. Nelson
+    affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+  - name: Adam J. McFall
+    affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+  - name: E. Tucker Stonecypher
+    affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+  - name: Christian S. Swartzbaugh
+    affiliation: Savannah River Ecology Laboratory, University of Georgia; Odum School of Ecology, University of Georgia
+  - name: Matthew C. Allender
+    affiliation: College of Veterinary Medicine, University of Illinois
+  - name: Stacey L. Lance
+    affiliation: Savannah River Ecology Laboratory, University of Georgia
+pub-info:
+  reference: >-
+    Kiersten N. Nelson, <strong>Adam J. McFall</strong>, E. Tucker Stonecypher, Christian S. Swartzbaugh, Matthew C. Allender, and Stacey L. Lance. (2024). “Development and Validation of a Scoring System for Abnormalities in the Gopher Frog (<em>Rana capito</em>),” <em>Herpetological Conservation and Biology<em> 19(1): 117-128.
+  links:
+  - name: Final version
+    url: Nelson_etal_HerpetolConservBiol_2024.pdf
+    icon: fa-solid fa-file
+    local: true
+---
+
+## Abstract
+Headstarting efforts are thought to be critical in supplementing populations of the at-risk Gopher Frog (*Rana capito*); however, recent efforts have occasionally resulted in juveniles with developmental abnormalities. In response, we developed a scoring system to collect quantitative data on the presence and severity of these developmental abnormalities. Our objective was to describe and validate the abnormality scoring system so that it can be used by all Gopher Frog headstarting facilities. The scoring system covers five primary conditions encompassing commonly observed abnormalities. Two groups of participants with different levels of prior experience working with Gopher Frogs assigned scores to a set of images presented to them for each condition. We used intra-class correlation coefficients (ICC) to test the scoring system for inter- and intra-rater agreement as well as agreement with the benchmark standard (established by the authors). We found high ICC values for inter-rater agreement, intra-rater agreement, and agreement to the benchmark standard indicating either excellent or good reliability for all five conditions and for all raters when grouped together. These findings support the reliability and validity of the proposed developmental abnormality scoring system. Gopher Frog headstarting facilities can implement this scoring system to assist in tracking the frequency and severity of abnormalities observed in future headstarting efforts. We hope that by creating a reliable scoring system for Gopher Frogs, it can provide an overall framework and serve as a valuable resource to evaluate abnormalities across any amphibian species.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/amcfall/publications/items/KWXIVKP5/item-list">Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{Nelson_etal_HerpetolConservBiol_2024,
+    Author = {Kiersten N. Nelson, Adam J. McFall, E. Tucker Stonecypher, Christian S. Swartzbaugh, Matthew C. Allender, and Stacey L. Lance},
+    Journal = {Herpetological Conservation and Biology},
+    Month = {04},
+    Number = {30},
+    Pages = {117-128},
+    Title = {Development and Validation of a Scoring System for Abnormalities in the Gopher Frog (Rana capito)},
+    Volume = {19},
+    Issue = {1},
+    Year = {2024}}
+```
