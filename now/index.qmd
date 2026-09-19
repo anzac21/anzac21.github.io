@@ -1,0 +1,36 @@
+---
+title: What I'm up to
+date: 2025-08-10
+#description: Adam McFall is waiting to see if he's going to get laid off!
+published-title: Last updated
+#title-block-banner: "#letter"
+toc: false
+engine: knitr
+freeze: false
+---
+
+```{css, echo=FALSE}
+#title-block-header .description {
+    display: none;
+}
+```
+Our daughter has been born! She was born on August 3rd and she and my wife are doing really well a week later. We have had so many people show up in support of us including in-laws and the family we are living with right now in Missouri. From groceries, to meals, to gift cards for food --- my step-father-in-law even changed the oil in one of our cars to help out. 
+
+We're trying to cherish this time right now just the three of us. I have some time off work over the next year (up to 12 weeks), so I'll be taking a large chunk of that time up front.
+
+# July 29 2025
+
+A lot has unfolded since I wrote an update. My wife is due any day now. She's been a trooper for her first time as a mother, having gone over her due date by 6 days now. Hang in there sweetie!
+
+I still have my job, praise God. He has really taken care of our every need. A couple months ago we moved in with a family from our church and my wife resigned from her job because we both felt like that's what God was telling us in preparation for the baby coming.
+
+It's been a summer of transition between the short distance move from Rocheport, MO to Harrisburg, MO (still in the Columbia, MO area). We are a little more cramped now, but God knew what we needed between saving money on rent and having closer connection with our community.
+
+
+# March 8 2025
+
+My wife is expecting in late July and we are very excited to be first-time parents!
+
+Since moving to Missouri, our church family has been so generous to us, helping meet our every need---like helping us move from our apartment to new rental home and gifting us an AirBnB for no reason other than just needing a weekend escape.
+
+With the recent federal [Reduction in Force (RIF) memorandum](https://www.chcoc.gov/content/guidance-agency-rif-and-reorganization-plans-requested-implementing-president%E2%80%99s-%E2%80%9Cdepartment) in effect, my wife and I are expecting that I will lose my job in the coming weeks/months.

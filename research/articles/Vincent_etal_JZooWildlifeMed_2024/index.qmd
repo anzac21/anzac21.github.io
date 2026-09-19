@@ -22,10 +22,17 @@ author:
     affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois
 pub-info:
   reference: >-
+<<<<<<< HEAD
     Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, John C. Garrison, Stacey Lance, <strong>Adam McFall</strong>, Amber Simmons, Kaitlin Moorhead, and Lauren Adamovicz. (2024). “Heath Assessment of Spotted (<em>Clemmys guttata</em>) and Painted (<em>Chrysemys picta</em>) Turtles in Cape Cod, Massachusetts, U.S.A., With Detection of a Novel Adenovirus,” <em>Journal of Zoo and Wildlife Medicine<em> 15: 356–75, doi: <a href="https://doi.org/10.1638/2023-0141"><code>10.1638/2023-0141</code></a>
   links:
   - name: Final version
     url: https://doi.org/10.1638/2023-0141
+=======
+    Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, John C. Garrison, Stacey Lance, <strong>Adam McFall</strong>, Amber Simmons, Kaitlin Moorhead, and Lauren Adamovicz. (2024). “Heath Assessment of Spotted (<em>Clemmys guttata</em>) and Painted (<em>Chrysemys picta</em>) Turtles in Cape Cod, Massachusetts, U.S.A., With Detection of a Novel Adenovirus,” <em>Journal of Zoo and Wildlife Medicine<em> 15: 356–75, doi: <a href="https://doi.org/10.1638/2022-0173"><code>10.1638/2022-0173</code></a>
+  links:
+  - name: Final version
+    url: https://doi.org/10.1638/2022-0173
+>>>>>>> cc8b7f53c3cf5bee44572bb4fdc8b53b2a8836c8
     icon: fa-solid fa-file
 doi: 10.1638/2023-0141
 ---

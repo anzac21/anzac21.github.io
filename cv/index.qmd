@@ -1,13 +1,21 @@
 ---
 title: Adam McFall's CV
 #description: "Adam McFall's CV"
+<<<<<<< HEAD
 date: 2026-06-13
+=======
+date: 2025-03-04
+>>>>>>> cc8b7f53c3cf5bee44572bb4fdc8b53b2a8836c8
 #title-block-banner: "#A2AAAD"
 published-title: CV last updated
 engine: knitr
 freeze: false
 cv:
+<<<<<<< HEAD
   pdf: "MCFALL_CV_25_website.pdf"
+=======
+  pdf: "MCFALL_CV_25.pdf"
+>>>>>>> cc8b7f53c3cf5bee44572bb4fdc8b53b2a8836c8
 ---
 
 ```{css, echo=FALSE}

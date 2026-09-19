@@ -15,10 +15,13 @@ project:
   resources:
     - "files/**"
     - "etc/**"
+<<<<<<< HEAD
     - "picture/**"
     - "source/**"
     - "/files/profiles/headshot.png"
     - "main-photo"
+=======
+>>>>>>> cc8b7f53c3cf5bee44572bb4fdc8b53b2a8836c8
 
     # Things that need to be at the site root
     - ".htaccess"
@@ -66,8 +69,13 @@ website:
         file: "research/index.qmd"
       #- text: "Talks"
       #  href: "talks/index.qmd"
+<<<<<<< HEAD
       - text: "Testimony"
         href: testimony/index.qmd
+=======
+      - text: "Now"
+        href: now/index.qmd
+>>>>>>> cc8b7f53c3cf5bee44572bb4fdc8b53b2a8836c8
     
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
@@ -75,9 +83,12 @@ website:
       - text: "{{< iconify bi linkedin size=1.1em title='LinkedIn' >}}"
         href: https://www.linkedin.com/in/adam-mcfall-7093a0164/
         rel: me
+<<<<<<< HEAD
       - text: "{{< iconify bi github size=1.1em title='GitHub' >}}"
         href: https://github.com/anzac21
         rel: me
+=======
+>>>>>>> cc8b7f53c3cf5bee44572bb4fdc8b53b2a8836c8
   
 
     center: |
