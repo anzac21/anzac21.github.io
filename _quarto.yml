@@ -66,13 +66,8 @@ website:
         file: "research/index.qmd"
       #- text: "Talks"
       #  href: "talks/index.qmd"
-<<<<<<< HEAD
       - text: "Testimony"
         href: testimony/index.qmd
-=======
-      - text: "Now"
-        href: now/index.qmd
->>>>>>> cc8b7f53c3cf5bee44572bb4fdc8b53b2a8836c8
     
     right:
       - text: "{{< iconify bi envelope size=1.1em title='E-mail' >}}"
