@@ -15,13 +15,10 @@ project:
   resources:
     - "files/**"
     - "etc/**"
-<<<<<<< HEAD
     - "picture/**"
     - "source/**"
     - "/files/profiles/headshot.png"
     - "main-photo"
-=======
->>>>>>> cc8b7f53c3cf5bee44572bb4fdc8b53b2a8836c8
 
     # Things that need to be at the site root
     - ".htaccess"
