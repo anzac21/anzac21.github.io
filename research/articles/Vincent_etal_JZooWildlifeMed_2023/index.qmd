@@ -19,7 +19,8 @@ author:
   - name: Laura Adamovicz
     affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois
 pub-info:
-  reference: "Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, Nicole E. Madden, Carolyn Cray, Stacey Lance, <strong>Adam McFall</strong>, and Lauren Adamovicz. (2023). “Cutaneous Myiasis and Its Relationship to Wellness in Eastern Box Turtles (<em>Terrapene Carolina Carolina</em>) in Cape Cod, Massachusetts,” <em>Journal of Zoo and Wildlife Medicine</em> 15: 356–75, DOI: <a href=\"https://doi.org\"><code>10.1638/2022-0173</code></a>"
+  reference: |
+    Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, Nicole E. Madden, Carolyn Cray, Stacey Lance, <strong>Adam McFall</strong>, and Lauren Adamovicz. (2023). “Cutaneous Myiasis and Its Relationship to Wellness in Eastern Box Turtles (<em>Terrapene Carolina Carolina</em>) in Cape Cod, Massachusetts,” <em>Journal of Zoo and Wildlife Medicine</em> 15: 356–75, doi: <a href="https://doi.org"><code>10.1638/2022-0173</code></a>
   links:
   - name: Final version
     url: https://doi.org
