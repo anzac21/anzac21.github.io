@@ -2,29 +2,29 @@
 title: "Cutaneous Myiasis and Its Relationship to Wellness in Eastern Box Turtles (*Terrapene Carolina Carolina*) in Cape Cod, Massachusetts"
 date: 2023-12-30
 author:
-- name: Lauren M. Vincent
-  affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois;
-- name: Matthew C. Allender
-  affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois; Chicago Zoological Society, Brookfield Zoo
-- name: Annie E. Curtis
-  affiliation: Natural Resources and Integrated Training Area Management Office, Massachusetts Army National Guard, Camp Edwards
-- name: Nicole E. Madden
-  affiliation: Natural Resources and Integrated Training Area Management Office, Massachusetts Army National Guard, Camp Edwards
-- name: Carolyn Cray
-  affiliation: Comparative Pathology Laboratory, Miller School of Medicine, University of Miami
-- name: Stacey Lance
-  affiliation: Savannah River Ecology Laboratory, University of Georgia
-- name: Adam McFall
-  affiliation: Savannah River Ecology Laboratory, University of Georgia
-- name: Laura Adamovicz
-  affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois
+  - name: Lauren M. Vincent
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois;
+  - name: Matthew C. Allender
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois; Chicago Zoological Society, Brookfield Zoo
+  - name: Annie E. Curtis
+    affiliation: Natural Resources and Integrated Training Area Management Office, Massachusetts Army National Guard, Camp Edwards
+  - name: Nicole E. Madden
+    affiliation: Natural Resources and Integrated Training Area Management Office, Massachusetts Army National Guard, Camp Edwards
+  - name: Carolyn Cray
+    affiliation: Comparative Pathology Laboratory, Miller School of Medicine, University of Miami
+  - name: Stacey Lance
+    affiliation: Savannah River Ecology Laboratory, University of Georgia
+  - name: Adam McFall
+    affiliation: Savannah River Ecology Laboratory, University of Georgia
+  - name: Laura Adamovicz
+    affiliation: Wildlife Epidemiology Laboratory, College of Veterinary Medicine, University of Illinois; Veterinary Diagnostic Laboratory, College of Veterinary Medicine, University of Illinois
 pub-info:
-  reference: >-
-  Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, Nicole E. Madden, Carolyn Cray, Stacey Lance, <strong>Adam McFall</strong>, and Lauren Adamovicz. (2023). “Cutaneous Myiasis and Its Relationship to Wellness in Eastern Box Turtles (<em>Terrapene Carolina Carolina</em>) in Cape Cod, Massachusetts,” <em>Journal of Zoo and Wildlife Medicine</em> 15: 356–75, doi: <a href="https://doi.org/10.1638/2022-0173"><code>10.1638/2022-0173</code></a>
+  reference: |
+      Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, Nicole E. Madden, Carolyn Cray, Stacey Lance, <strong>Adam McFall</strong>, and Lauren Adamovicz. (2023). “Cutaneous Myiasis and Its Relationship to Wellness in Eastern Box Turtles (<em>Terrapene Carolina Carolina</em>) in Cape Cod, Massachusetts," <em>Journal of Zoo and Wildlife Medicine</em> 15: 356–75, doi: <a href="https://doi.org/10.1638/2022-0173"><code>10.1638/2022-0173</code></a>
   links:
-  - name: Final version
-    url: https://doi.org/10.1638/2022-0173
-    icon: fa-solid fa-file
+      - name: Final version
+        url: https://doi.org/10.1638/2022-0173
+        icon: fa-solid fa-file
 doi: 10.1638/2022-0173
 ---
 

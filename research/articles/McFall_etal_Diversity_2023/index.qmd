@@ -17,7 +17,7 @@ author:
     affiliation: Savannah River Ecology Laboratory, University of Georgia
 pub-info:
   reference: >-
-    <strong>Adam J. McFall</strong>, Julie Ziemba, Scott M. Weir, Krista A. Capps, and Stacey L. Lance. (2023). “Amphibian Dispersal Traits Not Impacted by Triclopyr,” <em>Diversity<em> 15: 356–75, doi: <a href="https://doi.org/10.3390/d15020215"><code>10.3390/d15020215</code></a>
+   <strong>Adam J. McFall</strong>, Julie Ziemba, Scott M. Weir, Krista A. Capps, and Stacey L. Lance. (2023). “Amphibian Dispersal Traits Not Impacted by Triclopyr,” <em>Diversity<em> 15: 356–75, doi: <a href="https://doi.org/10.3390/d15020215"><code>10.3390/d15020215</code></a>
   links:
     - name: Final version
       url: https://doi.org/10.3390/d15020215

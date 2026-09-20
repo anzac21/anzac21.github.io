@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-9f30c2c2d2429ed22c1cf9f617479b3b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-36c179ceab67a5d37bf03d2254fe0b50.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-d69a6a74a744f941b2a662d9d24dcb8c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script src="site_libs/quarto-contrib/iconify-2.1.0/iconify-icon.min.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
@@ -103,8 +103,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./now/index.html"> 
-<span class="menu-text">Now</span></a>
+    <a class="nav-link" href="./testimony/index.html"> 
+<span class="menu-text">Testimony</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -115,6 +115,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="https://www.linkedin.com/in/adam-mcfall-7093a0164/" rel="me"> 
 <span class="menu-text"><iconify-icon role="img" inline="" icon="bi:linkedin" style="font-size: 1.1em;" aria-label="Icon linkedin from bi Iconify.design set." title="LinkedIn"></iconify-icon></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/anzac21" rel="me"> 
+<span class="menu-text"><iconify-icon role="img" inline="" icon="bi:github" style="font-size: 1.1em;" aria-label="Icon github from bi Iconify.design set." title="GitHub"></iconify-icon></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -156,7 +160,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="g-col-1 g-col-sm-0"></div>
   <div class="g-col-3 g-col-sm-5">
     <picture>
-      <source media="(max-width: 576px)" srcset="/files/profiles/headshot.png">
+      <source media="(max-width: 576px)" srcset="?meta:main-photo-square">
       <source media="(min-width: 576px)" srcset="/files/profiles/headshot.png">
       <img class="img-fluid" src="./files/profiles/headshot.png" alt="Adam McFall">
     </picture>
@@ -166,9 +170,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="g-col-8 g-col-sm-8">
 <p>I am a Biologist with the U.S. Geological Survey at the <a href="https://www.usgs.gov/centers/columbia-environmental-research-center">Columbia Environmental Research Center</a> in Columbia, Missouri. As part of the <a href="https://www.usgs.gov/centers/columbia-environmental-research-center/science/science-topics/invasive-species-ecology">Fisheries and Invasive Species Program</a>, my research focuses on understanding the behavior of invasive carp species/developing tools to limit their spread throughout the Mississippi River basin.</p>
-<p>I received a M.S. in Integrative Conservation &amp; Sustainability from the University of Georgia’s Odum School of Ecology in 2023. My thesis looked at improving head-starting practices and developing a new soft release method to protect <a href="https://www.youtube.com/watch?v=LG9sLTHaark&amp;t=5s">threatened gopher frog populations in South Carolina</a>. Before that, I graduated with a B.S. in Biology from the University of South Carolina, Aiken in 2019.</p>
+<p>I received a M.S. in Integrative Conservation &amp; Sustainability from the University of Georgia’s Odum School of Ecology in 2023. My thesis looked at improving head-starting practices and <a href="https://www.youtube.com/watch?v=LG9sLTHaark&amp;t=5s">evaluating soft releasing to protect threatened gopher frog populations in South Carolina</a>. Before that, I graduated with a B.S. in Biology from the University of South Carolina, Aiken in 2019.</p>
 <p>I’m interested in conservation ecology, data science, science communication, invasive species, amphibian ecology, ecotoxicology, and restoration ecology. I work a lot with R and GIS and have no trouble teaching myself new software. My latest pursuits are Quarto and LaTeX for writing protocols, manuscripts, and storing code.</p>
-<p>Outside of work, I enjoy going for walks with my wife, spending time with my daughter, herping, camping, playing adult-league soccer, and board games with friends.</p>
+<p>Outside of work, I enjoy going for walks with my wife, playing soccer, board games, and herping. Lately I’ve been really into <a href="https://www.herpmapper.org/profile/8675-adam_mcfall">HerpMapper</a>.</p>
 </div>
 </div>
 
@@ -247,7 +251,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/anzac21\.quarto\.pub\/adam-mcfall");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
