@@ -1,6 +1,6 @@
 ---
 title: Journal Entries
-date: 2026-09-20
+date: 2026-11-09
 published-title: Last updated
 #title-block-banner: "#letter"
 toc: false
@@ -13,6 +13,14 @@ freeze: false
     display: none;
 }
 ```
+
+Isn't it funny how we don't really know how our lives are going to turn out? After much job searching and the sense that we are supposed to move, an opportunity at work came up to potentially stay on for longer than my term through and Oak Ridge Institute for Science and Education (ORISE) fellowship. This fellowship is elligible to post-masters students who have completed their degree within the last 5 years. I was thinking this whole time that the only way I could stay on is if I go back to school, which we felt strong about not doing. But then my boss told me about this opportunity which might open up the door to staying.
+
+In addition, some friends from our church had us over for dinner last week and told us that they were taking a job in Branson, MO and leaving in the next month and a half and wanted to know if we would like to rent their house. So God has made a way for us to move out of the basement of the family we are staying with without signing a new lease that we'd have to break if I find a job. We decided to accept and will be moving in sometime in December.
+
+We continue to trust God even when it's confusing. Whether we end up staying or going, he has our best interest always at heart. Thank you, LORD.
+
+# September 20 2026
 
 We have the sense that our time in Missouri is coming to a close. We were told that our terms would not be extended past four years. I have just hit my third year, so I have one year to go. I have been applying for jobs and we just get the sense that an opportunity closer to family will become available.
 
