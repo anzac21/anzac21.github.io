@@ -41,7 +41,7 @@ I received a M.S. in Integrative Conservation & Sustainability from the Universi
 
 I'm interested in conservation ecology, data science, science communication, invasive species, amphibian ecology, ecotoxicology, and restoration ecology. I work a lot with R and GIS and have no trouble teaching myself new software. My latest pursuits are Quarto and LaTeX for writing protocols, manuscripts, and storing code.
 
-Outside of work, I enjoy going for walks with my wife, playing soccer, board games, and herping. Lately I've been really into [HerpMapper](https://www.herpmapper.org/profile/8675-adam_mcfall).
+Outside of work,  I enjoy going for walks with my wife, playing soccer, board games, and herping. Lately I've been really into [HerpMapper](https://www.herpmapper.org/profile/8675-adam_mcfall).
 
 :::
 
