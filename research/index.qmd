@@ -10,8 +10,8 @@ listing:
     contents: "working-papers/*/index.qmd"
     sort: "date desc"
     template: ../html/research/listing.ejs
-  - id: book-chapters
-    contents: "chapters/*/index.qmd"
+  - id: data-releases
+    contents: "data-releases/*/index.qmd"
     sort: "date desc"
     template: ../html/research/listing.ejs
   - id: reviews
@@ -40,4 +40,9 @@ My research covers topics from **endangered species conservation** to management
 ## Journal articles
 
 :::{#articles}
+:::
+
+## Data releases
+
+:::{#data-releases}
 :::

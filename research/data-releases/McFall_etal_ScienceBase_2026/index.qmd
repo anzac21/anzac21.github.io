@@ -1,0 +1,46 @@
+---
+title: "Overwintering telemetry assessment of invasive Silver Carp in embayment habitats of Kentucky Lake and Lake Barkley, Kentucky, USA, 2021-2025"
+date: 2026-10-26
+author:
+  - name: Adam J. McFall
+    orcid: 0000-0001-5516-7914
+    affiliation: Columbia Environmental Research Center, U.S. Geological Survey
+  - name: Josey L. Ridgway
+    orcid: 0000-0003-4157-7255
+    affiliation: Columbia Environmental Research Center, U.S. Geological Survey
+  - name: Jesse R. Fischer
+    orcid: 0000-0002-9071-7931
+    affiliation: Columbia Environmental Research Center, U.S. Geological Survey
+  - name: Adam C. Jones
+    orcid: 0000-0002-1316-7825
+    affiliation: Columbia Environmental Research Center, U.S. Geological Survey
+  - name: Joseph E. Deters
+    orcid: 0000-0002-5340-766X
+    affiliation: Columbia Environmental Research Center, U.S. Geological Survey
+pub-info:
+  reference: >-
+   <strong>Adam J. McFall</strong>, Josey L. Ridgway, Jesse R. Fischer, Adam C. Jones, and Joseph E. Deters. (2026). “Overwintering telemetry assessment of invasive Silver Carp in embayment habitats of Kentucky Lake and Lake Barkley, Kentucky, USA, 2021-2025,” <em>U.S. Geological Survey data release<em>, doi: <a href="https://doi.org/10.5066/P1YXR7SY"><code>10.5066/P1YXR7SY</code></a>
+  links:
+    - name: Final version
+      url: https://doi.org/10.5066/P1YXR7SY
+      icon: fa-solid fa-file
+doi: 10.5066/P1YXR7SY
+---
+
+## Description
+Telemetry data from various fish species (primarily Silver Carp [Hypophthalmichthys molitrix]) were collected across 10 embayments (stations) in Kentucky Lake and Lake Barkley, KY, USA. Data were collected during the winter periods (December to March) of 2021-2025. Water quality data were recorded for the same stations during the same periods. Data also include the deployment locations of 42 acoustic receivers and 10 water quality sondes, organized by station number and sample year. Each year, acoustic receiver arrays and water quality sondes were positioned in approximately the same locations to allow comparison of fish movement and water quality data across years.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/amcfall/publications/items/KWXIVKP5/item-list">Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@misc{McFall_etal_ScienceBase_2026,
+    Author = {Adam J. McFall, Josey L. Ridgway, Jesse R. Fischer, Adam C. Jones, and Joseph E. Deters},
+    Doi = {https://doi.org/10.5066/P1YXR7SY},
+    Publisher = {U.S. Geological Survey},
+    Title = {Overwintering telemetry assessment of invasive Silver Carp in embayment habitats of Kentucky Lake and Lake Barkley, Kentucky, USA, 2021-2025},
+    Year = {2026}}
+```

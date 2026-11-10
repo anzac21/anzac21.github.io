@@ -135,20 +135,20 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-book-chapters .list');
+    const listingTargetEl = window.document.querySelector('#listing-data-releases .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-freeze','listing-pagetitle','listing-author-meta','listing-website','listing-format','listing-engines','listing-_quarto-vars','listing-language','listing-date-format','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-pub-info','listing-doi','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-project","listing-freeze","listing-pagetitle","listing-author-meta","listing-website","listing-format","listing-engines","listing-_quarto-vars","listing-language","listing-date-format","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-pub-info","listing-doi","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-book-chapters'] = new List('listing-book-chapters', options);
+    window['quarto-listings']['listing-data-releases'] = new List('listing-data-releases', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -398,9 +398,10 @@ window.Quarto = {
    
   <ul>
   <li><a href="#journal-articles" id="toc-journal-articles" class="nav-link active" data-scroll-target="#journal-articles">Journal articles</a></li>
+  <li><a href="#data-releases" id="toc-data-releases" class="nav-link" data-scroll-target="#data-releases">Data releases</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -414,7 +415,7 @@ window.Quarto = {
 <div class="research project-list">
 <ul class="list">
     
-        <li class="project" data-index="0" data-listing-date-sort="1733464800000" data-listing-file-modified-sort="1794233967075" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="67">
+        <li class="project" data-index="0" data-listing-date-sort="1733464800000" data-listing-file-modified-sort="1794233179441" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="67">
             <div class="project-content listing-pub-info">
                 <p>E. Tucker Stonecypher, Padraic S. Robinson, Kiersten N. Nelson, and <strong>Adam J. McFall</strong>. (2024). “<em>AMBYSTOMA OPACUM</em> (Marbled Salamander). LEUCISM,” <em>Herpetological Review<em> 55(1): 60-61.</em></em></p><em><em>
             </em></em></div><em><em>
@@ -446,7 +447,7 @@ window.Quarto = {
             </div>
         </em></em></li><em><em>
         
-        <li class="project" data-index="1" data-listing-date-sort="1725512400000" data-listing-file-modified-sort="1794233967081" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="296">
+        <li class="project" data-index="1" data-listing-date-sort="1725512400000" data-listing-file-modified-sort="1794233179528" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="296">
             <div class="project-content listing-pub-info">
                 <p>Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, John C. Garrison, Stacey Lance, <strong>Adam McFall</strong>, Amber Simmons, Kaitlin Moorhead, and Lauren Adamovicz. (2024). “Heath Assessment of Spotted (<em>Clemmys guttata</em>) and Painted (<em>Chrysemys picta</em>) Turtles in Cape Cod, Massachusetts, U.S.A., With Detection of a Novel Adenovirus,” <em>Journal of Zoo and Wildlife Medicine<em> 15: 356–75, doi: <a href="https://doi.org/10.1638/2022-0173"><code>10.1638/2022-0173</code></a></em></em></p><em><em>
             </em></em></div><em><em>
@@ -478,7 +479,7 @@ window.Quarto = {
             </div>
         </em></em></li><em><em>
         
-        <li class="project" data-index="2" data-listing-date-sort="1714453200000" data-listing-file-modified-sort="1794233967071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="341">
+        <li class="project" data-index="2" data-listing-date-sort="1714453200000" data-listing-file-modified-sort="1794233179403" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="341">
             <div class="project-content listing-pub-info">
                 <p>Kiersten N. Nelson, <strong>Adam J. McFall</strong>, E. Tucker Stonecypher, Christian S. Swartzbaugh, Matthew C. Allender, and Stacey L. Lance. (2024). “Development and Validation of a Scoring System for Abnormalities in the Gopher Frog (<em>Rana capito</em>),” <em>Herpetological Conservation and Biology<em> 19(1): 117-128.</em></em></p><em><em>
             </em></em></div><em><em>
@@ -510,7 +511,7 @@ window.Quarto = {
             </div>
         </em></em></li><em><em>
         
-        <li class="project" data-index="3" data-listing-date-sort="1703916000000" data-listing-file-modified-sort="1794233967078" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
+        <li class="project" data-index="3" data-listing-date-sort="1703916000000" data-listing-file-modified-sort="1794233179486" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
             <div class="project-content listing-pub-info">
                 <p>Lauren M. Vincent, Matthew C. Allender, Annie E. Curtis, Nicole E. Madden, Carolyn Cray, Stacey Lance, <strong>Adam McFall</strong>, and Lauren Adamovicz. (2023). “Cutaneous Myiasis and Its Relationship to Wellness in Eastern Box Turtles (<em>Terrapene Carolina Carolina</em>) in Cape Cod, Massachusetts," <em>Journal of Zoo and Wildlife Medicine</em> 15: 356–75, doi: <a href="https://doi.org/10.1638/2022-0173"><code>10.1638/2022-0173</code></a>
 </p>
@@ -543,7 +544,7 @@ window.Quarto = {
             </div>
         </li>
         
-        <li class="project" data-index="4" data-listing-date-sort="1702706400000" data-listing-file-modified-sort="1794233967063" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="353">
+        <li class="project" data-index="4" data-listing-date-sort="1702706400000" data-listing-file-modified-sort="1794320336750" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="353">
             <div class="project-content listing-pub-info">
                 <p><strong>Adam J. McFall</strong>, Kiersten N. Nelson, E. Tucker Stonecypher, Christian S. Swartzbaugh, Matthew C. Allender, Caitlin E. Burrell, Michael J. Yabsley, and Stacey L. Lance. (2023). “Morphological Abnormalities in the Gopher Frog (<em>Lithobates capito</em>) During a Headstarting Event,” <em>Herpetological Conservation and Biology<em> 18(3): 436–449.</em></em></p><em><em>
             </em></em></div><em><em>
@@ -575,7 +576,7 @@ window.Quarto = {
             </div>
         </em></em></li><em><em>
         
-        <li class="project" data-index="5" data-listing-date-sort="1675317600000" data-listing-file-modified-sort="1794233967058" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="228">
+        <li class="project" data-index="5" data-listing-date-sort="1675317600000" data-listing-file-modified-sort="1794233179314" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="228">
             <div class="project-content listing-pub-info">
                 <p><strong>Adam J. McFall</strong>, Julie Ziemba, Scott M. Weir, Krista A. Capps, and Stacey L. Lance. (2023). “Amphibian Dispersal Traits Not Impacted by Triclopyr,” <em>Diversity<em> 15: 356–75, doi: <a href="https://doi.org/10.3390/d15020215"><code>10.3390/d15020215</code></a></em></em></p><em><em>
             </em></em></div><em><em>
@@ -611,19 +612,55 @@ window.Quarto = {
 </em></em></em></div><em><em><em>
 <div class="listing-no-matching d-none">No matching items</div>
 </em></em></em></div>
+</section>
+<section id="data-releases" class="level2">
+<h2 class="anchored" data-anchor-id="data-releases">Data releases</h2>
+<div id="listing-data-releases" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-listing-date-sort="1792990800000" data-listing-file-modified-sort="1794320902019" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="178">
+            <div class="project-content listing-pub-info">
+                <p><strong>Adam J. McFall</strong>, Josey L. Ridgway, Jesse R. Fischer, Adam C. Jones, and Joseph E. Deters. (2026). “Overwintering telemetry assessment of invasive Silver Carp in embayment habitats of Kentucky Lake and Lake Barkley, Kentucky, USA, 2021-2025,” <em>U.S. Geological Survey data release<em>, doi: <a href="https://doi.org/10.5066/P1YXR7SY"><code>10.5066/P1YXR7SY</code></a></em></em></p><em><em>
+            </em></em></div><em><em>
+
+            
+
+            
+            
+            
+            <div class="project-details-listing">
+                <ul class="project-links">
+                    <li class="project-link details">
+                        <a href="../research/data-releases/McFall_etal_ScienceBase_2026/index.html" class="listing-name">
+                            <i class="fa-solid fa-circle-info"></i> Full details »
+                        </a>
+                    </li>
+                    
+                        
+                    <li class="project-link">
+                        
+                        <a href="https://doi.org/10.5066/P1YXR7SY">
+                        
+                            <i class="fa-solid fa-file"></i> Final version
+                        </a>
+                    </li>
+                        
+                    
+                </ul>
+            </div>
+        </em></em></li><em><em>
+        
+</em></em></ul><em><em>
+</em></em></div><em><em>
+<div class="listing-no-matching d-none">No matching items</div>
+</em></em></div>
 
 <em><em><em>
 
 </em></em></em></section><em><em><em>
 
 </em></em></em><div class="quarto-listing quarto-listing-container-custom" id="listing-working-papers">
-<div class="research project-list">
-<ul class="list">
-    
-</ul>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div><div class="quarto-listing quarto-listing-container-custom" id="listing-book-chapters">
 <div class="research project-list">
 <ul class="list">
     
